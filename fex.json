@@ -2,6 +2,7 @@
     "name": "ForgeX",
     "symbol": "FEX",
     "uri": "https://github.com/hypodev/ForgeX/blob/main/fex.json",
+    "image": "https://raw.githubusercontent.com/your-repo/metadata/main/forgeX_logo.png",  // Image URL
     "seller_fee_basis_points": 0,
     "creators": null
   }
