@@ -1,0 +1,8 @@
+{
+    "name": "ForgeX",
+    "symbol": "FEX",
+    "uri": "https://raw.githubusercontent.com/your-repo/metadata/main/fex.json",
+    "seller_fee_basis_points": 0,
+    "creators": null
+  }
+  
